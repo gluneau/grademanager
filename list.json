@@ -1,0 +1,6 @@
+[
+  {"schoolBoard":"CSM","studentId":1,"name":"Jean-Luc Picard","listOfGrades":[6,7,8,9]},
+  {"schoolBoard":"CSMB","studentId":2,"name":"William Riker","listOfGrades":[4,4,5,6]},
+  {"schoolBoard":"CSM","studentId":3,"name":"Deanna Troi","listOfGrades":[4,5,6]},
+  {"schoolBoard":"CSMB","studentId":4,"name":"Tasha Yar","listOfGrades":[6,7]}
+]

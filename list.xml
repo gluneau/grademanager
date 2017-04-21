@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<students>
+	<a0>
+		<schoolBoard>CSM</schoolBoard>
+		<studentId>1</studentId>
+		<name>Jean-Luc Picard</name>
+		<listOfGrades>6</listOfGrades>
+		<listOfGrades>7</listOfGrades>
+		<listOfGrades>8</listOfGrades>
+		<listOfGrades>9</listOfGrades>
+	</a0>
+	<a1>
+		<schoolBoard>CSMB</schoolBoard>
+		<studentId>2</studentId>
+		<name>William Riker</name>
+		<listOfGrades>4</listOfGrades>
+		<listOfGrades>4</listOfGrades>
+		<listOfGrades>5</listOfGrades>
+		<listOfGrades>6</listOfGrades>
+	</a1>
+	<a2>
+		<schoolBoard>CSM</schoolBoard>
+		<studentId>3</studentId>
+		<name>Deanna Troi</name>
+		<listOfGrades>4</listOfGrades>
+		<listOfGrades>5</listOfGrades>
+		<listOfGrades>6</listOfGrades>
+	</a2>
+	<a3>
+		<schoolBoard>CSMB</schoolBoard>
+		<studentId>4</studentId>
+		<name>Tasha Yar</name>
+		<listOfGrades>6</listOfGrades>
+		<listOfGrades>7</listOfGrades>
+	</a3>
+</students>
